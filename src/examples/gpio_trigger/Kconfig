@@ -1,4 +1,0 @@
- bool "gpio trigger"
- default n
- ---help---
- 	Enable gpio trigger
